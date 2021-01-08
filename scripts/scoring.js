@@ -37,9 +37,7 @@ function renderScoringButtons() {
  * BONUS 2: Move the common code from addToScore and subtractFromScore to a helper function!
  *      HINT: Compute the new score and then call the helper function.
  */
-function subtractFromScore() {
-  // Add code here
-}
+function subtractFromScore() {}
 
 function addToScore() {
   let currentScore = getCurrentScore();

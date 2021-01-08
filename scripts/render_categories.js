@@ -33,7 +33,6 @@ let categories = [
  *      Answer: https://bit.ly/3gOwrga
  */
 function renderCategories() {
-  // Add code here
   let htmlString = "";
   for (let i = 0; i < categories.length; i++) {
     let categoryStr =
